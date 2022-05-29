@@ -17,6 +17,8 @@ public class demo {
 		log.info("newly added");
 		log.info("newly added 2 ");
 		log.info("newly added 3 ");
+		log.info("architech design develop branch 1");
+		log.info("architech design develop branch 2");
 	}
 
 }

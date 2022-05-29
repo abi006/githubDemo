@@ -15,7 +15,9 @@ public class demo1 {
 		log.info("newly added");
 		log.info("newly added 2 ");
 		log.info("newly added 3 ");
-		
+
+		System.out.println("archi 2 full chnages");
+		System.out.println("archi 2 full chnages 2 ");
 	}
 
 }
