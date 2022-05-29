@@ -12,6 +12,9 @@ public class demo1 {
 		log.error("at error");
 		log.fatal("at fatal");
 		log.info("at info");
+		log.info("newly added");
+		log.info("newly added 2 ");
+		log.info("newly added 3 ");
 		
 	}
 
